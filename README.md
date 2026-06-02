@@ -80,7 +80,7 @@ Traders exhibit a distinct cognitive bias by committing their largest average po
 ### Install Dependencies
 To install the required Python packages, run:
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn reportlab
+pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 ### How to Run
@@ -92,8 +92,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn reportlab
 2. Run the Jupyter Notebook to re-execute the analysis:
    ```bash
    jupyter notebook internship.ipynb
-   ```
-3. To regenerate the PDF report manually, run:
-   ```bash
-   python build_pdf.py
    ```
